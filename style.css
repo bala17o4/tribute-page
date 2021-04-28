@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+}
+h1{
+    font-family: 'Artifika', serif;
+    font-size: 4rem;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+
+
+
+.top-container{
+    text-align: center;
+    background-color:#687980;
+    position: relative;
+    padding: 2%;
+    color: #0a1213;
+}
+
+#image {
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
+#img-caption{
+    font-family: 'Montserrat',sans-serif;
+    color: black;
+}
+#tribute-info p{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 150%;
+
+}
+#tribute-info h2{
+    font-family: 'Artifika',serif;
+    font-size: 3rem;
+    text-align: center;
+}
+#tribute-info{
+    padding: 2%;
+}
+.first{
+    text-align: left;
+}
+.second{
+    text-align: center;
+    font-family: 'Artifika',serif;
+}
+.bottom-container{
+    text-align: center;
+    font-family: 'Montserrat',sans-serif;
+}
